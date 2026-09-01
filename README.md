@@ -1,8 +1,8 @@
 # Programacion2-Grupo10Semana8.
 Integrantes:
 1. Isabel Uvaldina Ramos Saravia – 2026010478
-2. Marcos Armando Vásquez González – 2026011588 (yo)
-3. Anderson Steven Flores Pérez – 2026011705
+2. Marcos Armando Vásquez González – 2026011588
+3. 3. Anderson Steven Flores Pérez – 2026011705
 4. Camila Nicole Salvador Samayoa – 2026011056
 5. Luis Gerardo Ramos Martínez – 2026010771
 6. Perla Esmeralda López Barrientos – 2026011595
