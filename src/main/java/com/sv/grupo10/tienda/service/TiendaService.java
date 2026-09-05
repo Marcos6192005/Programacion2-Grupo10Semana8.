@@ -1,5 +1,5 @@
 package com.sv.grupo10.tienda.service;
-
+// Módulo de servicio de la tienda - revisado por Luis Alonso
 import com.sv.grupo10.tienda.model.Categoria;
 import com.sv.grupo10.tienda.model.Producto;
 
