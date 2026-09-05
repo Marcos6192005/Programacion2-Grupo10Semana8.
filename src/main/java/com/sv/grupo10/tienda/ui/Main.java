@@ -131,7 +131,7 @@ public class Main {
                         break;
 
                     case 6:
-                        System.out.println("\n¡Saliendo del sistema!");
+                        System.out.println("\nSaliendo del sistema! Vuelve pronto!");
                         break;
 
                     default:
