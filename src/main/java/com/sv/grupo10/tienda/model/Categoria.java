@@ -6,7 +6,7 @@ public enum Categoria {
     BEBIDAS("Bebidas"),
     LACTEOS("Lacteos"),
     PANADERIA("Panaderia"),
-    SNACKS("Snacks"),
+    SNACKS("Aperitivo"),
     COCINA("Cocina"),
     PASTAS("Pastas"),
     ENLATADOS("Enlatados"),
