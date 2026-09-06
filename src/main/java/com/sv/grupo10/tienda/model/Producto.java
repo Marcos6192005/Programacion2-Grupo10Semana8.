@@ -16,22 +16,44 @@ public class Producto {
         this.id = id;
         this.nombre = nombre;
         this.categoria = categoria;
-        this.precio = precio;
-        this.stock = stock;
+        setPrecio(precio);
+        setStock(stock);
     }
 
-    public String getId() { return id; }
-    public String getNombre() { return nombre; }
-    public Categoria getCategoria() { return categoria; }
-    public double getPrecio() { return precio; }
-    public int getStock() { return stock; }
+    public String getId() {
+        return id;
+    }
 
-    public void setNombre(String nombre) { this.nombre = nombre; }
-    public void setCategoria(Categoria categoria) { this.categoria = categoria; }
+    public String getNombre() {
+        return nombre;
+    }
+
+    public Categoria getCategoria() {
+        return categoria;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public int getStock() {
+        return stock;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setCategoria(Categoria categoria) {
+        this.categoria = categoria;
+    }
+
+
     public void setPrecio(double precio) {
         if (precio < 0) {
             throw new IllegalArgumentException("El precio no puede ser negativo");
         }
+
         this.precio = precio;
     }
 
@@ -39,6 +61,7 @@ public class Producto {
         if (stock < 0) {
             throw new IllegalArgumentException("El stock no puede ser negativo");
         }
+
         this.stock = stock;
     }
 
