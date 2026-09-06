@@ -131,7 +131,7 @@ public class Main {
                         break;
 
                     case 6:
-                        System.out.println("\nCerrando programa - Roberto");
+                        System.out.println("\nCerrando programa - Roberto Erazo");
                         break;
 
                     default:
